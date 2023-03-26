@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 Coming Soon! 
-<!---
-{% include base_path %}
 
+{% include base_path %}
+<!---
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
