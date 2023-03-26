@@ -1,5 +1,5 @@
 ---
-title: "1"
+title: "GPT-2-based human-in-the-loop theatre play script generation"
 collection: publications
 permalink: /publication/2022-07-01-paper-title-number-1
 excerpt: 
@@ -9,6 +9,6 @@ paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user
 citation: 'Rudolf Rosa, Patrícia Schmidtová, Ondřej Dušek, Tomáš Musil, David Mareček, *Saad Obaid*, Marie Nováková, Klára Vosecká, and Josef Doležal. 2022. GPT-2-based Human-in-the-loop Theatre Play Script Generation. In Proceedings of the 4th Workshop of Narrative Understanding (WNU2022), pages 29–37, Seattle, United States. Association for Computational Linguistics.'
 ---
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9VFgQ24AAAAJ&citation_for_view=9VFgQ24AAAAJ:d1gkVwhDpl0C))
+[Download paper here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9VFgQ24AAAAJ&citation_for_view=9VFgQ24AAAAJ:d1gkVwhDpl0C)
 
 Citation: Rudolf Rosa, Patrícia Schmidtová, Ondřej Dušek, Tomáš Musil, David Mareček, *Saad Obaid*, Marie Nováková, Klára Vosecká, and Josef Doležal. 2022. GPT-2-based Human-in-the-loop Theatre Play Script Generation. In Proceedings of the 4th Workshop of Narrative Understanding (WNU2022), pages 29–37, Seattle, United States. Association for Computational Linguistics.
