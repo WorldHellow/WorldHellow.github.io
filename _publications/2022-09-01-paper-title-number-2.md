@@ -1,7 +1,7 @@
 ---
 title: "THEaiTRobot: An Interactive Tool for Generating Theatre Play Scripts"
 collection: publications
-permalink: /publication/2022-09-01-paper-title-number-2
+permalink: /publications/2022-09-01-paper-title-number-2
 excerpt: 
 date: 2022-07-01
 venue: 'Proceedings of the 15th Conference on Natural Language Generation: System Demonstrations'
