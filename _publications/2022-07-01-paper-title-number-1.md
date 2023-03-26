@@ -1,7 +1,7 @@
 ---
 title: "GPT-2-based human-in-the-loop theatre play script generation"
 collection: publications
-permalink: /publication/2022-07-01-paper-title-number-1
+permalink: /publications/2022-07-01-paper-title-number-1
 excerpt: 
 date: 2022-07-01
 venue: 'Proceedings of the 4th Workshop of Narrative Understanding (WNU2022)'
