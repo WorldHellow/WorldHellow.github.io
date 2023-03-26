@@ -1,7 +1,7 @@
 ---
 title: "Tackling Hallucinations in Chart Summarization"
 collection: publications
-permalink: /publications/2023-01-01-paper-title-number-3
+permalink: /publication/2023-01-01-paper-title-number-3
 excerpt: 'Master's Thesis'
 date: 2023-01-31
 venue: 'Charles University Digiital Repository'
