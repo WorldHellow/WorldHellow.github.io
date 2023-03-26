@@ -7,36 +7,47 @@ redirect_from:
   - /resume
 ---
 
-Coming Soon! 
-
 {% include base_path %}
-<!---
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Language Science and Technology, Saarland University, Germany, 2022
+  * Thesis: Tackling Hallucinations in Neural Chart Summarization 
+  * Supervised by: Vera Demberg (Saarland University), Ondrej Dusek (Charles University)
+* M.Sc in Language Technologies and Computational Linguistics, Charles University, Prague, 2021 
+* B.Sc in Computer Science, National University of Sciences and Technology, Pakistan, 2019 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Novemeber 2022 - : Research Assistant
+  * Chair of NLP, Uni-Wurzburg
+  * Duties included: Working in collaboration with Political Scientists from Leiden and Strathclyde University, my focus is on developing classification and regression models for political text analysis.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2022 - July 2022: Guest Researcher
+  * DFKI - Multilinguality and Language Technology Group
+  * Duties included: Built Spanish dialect corpus by scraping data from wikipedia and twitter
+
+* July 2019 - May 2020: Research Engineer
+  * National Center for Artificial Intelligence, Pakistan
+  * Duties included: Built Urdu Automatic Speech Recongition system using Kaldi ASR. Developed models for Urdu NER, POS, and Sentiment Analysis using BERT language model.
+
+* July 2018 - August 2028: Machine Learning intern
+  * Developed Restaurant Chatbot based on Kaggle Dataset.
+  * Developed Telecommunications Customer Care Chatbot.
+  * Research on Deep Learning based models for Speech Emotion Recognition.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * Bash/Shell
+  * Familiar with: C++, HTML, CSS, JavaScript
+* Tools and Packages
+  * Deep learning: Pytorch, Tensorflow/keras, Huggingface transformers, sentence-transformers 
+  * Data Science: numpy, pandas, scikit-learn, scipy, nltk, BeautifulSoup, matplotlib
+* Databases and Structured Information Storage:
+  * MySQL
+  * XML
 
 Publications
 ======
@@ -44,19 +55,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+* Erasmus Mundus Scholarship Awardee (2020-2022)
+
