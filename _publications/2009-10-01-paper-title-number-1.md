@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-07-01-paper-title-number-1
+excerpt: 
+date: 2022
+venue: 'Proceedings of the 4th Workshop of Narrative Understanding (WNU2022)'
+paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9VFgQ24AAAAJ&citation_for_view=9VFgQ24AAAAJ:d1gkVwhDpl0C'
+citation: 'Rudolf Rosa, Patrícia Schmidtová, Ondřej Dušek, Tomáš Musil, David Mareček, *Saad Obaid*, Marie Nováková, Klára Vosecká, and Josef Doležal. 2022. GPT-2-based Human-in-the-loop Theatre Play Script Generation. In Proceedings of the 4th Workshop of Narrative Understanding (WNU2022), pages 29–37, Seattle, United States. Association for Computational Linguistics.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9VFgQ24AAAAJ&citation_for_view=9VFgQ24AAAAJ:d1gkVwhDpl0C))
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rudolf Rosa, Patrícia Schmidtová, Ondřej Dušek, Tomáš Musil, David Mareček, *Saad Obaid*, Marie Nováková, Klára Vosecká, and Josef Doležal. 2022. GPT-2-based Human-in-the-loop Theatre Play Script Generation. In Proceedings of the 4th Workshop of Narrative Understanding (WNU2022), pages 29–37, Seattle, United States. Association for Computational Linguistics.
