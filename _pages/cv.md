@@ -21,20 +21,24 @@ Work experience
 ======
 * Novemeber 2022 - : Research Assistant
   * Chair of NLP, Uni-Wurzburg
-  * Duties included: Working in collaboration with Political Scientists from Leiden and Strathclyde University, my focus is on developing classification and regression models for political text analysis.
+  * Member of the technical team of EUINACTION project, creating machine learning models for political text scaling. Applied regression, classification (Roberta, XLM-R), and GPT3 driven data augmentation, to analyze multi-lingual political text. Contributed to the creation of ParlEE dataset and enabled political scientists to produce influential papers in political
+science journals.
 
-* May 2022 - July 2022: Guest Researcher
+* May 2022 - July 2022: Research Intern
   * DFKI - Multilinguality and Language Technology Group
-  * Duties included: Built Spanish dialect corpus by scraping data from wikipedia and twitter
+  * - Worked on a team project aimed at building Spanish Dialect Corpus to study dialect bias in large language models. Executed efficient data scraping methods to extract Spanish dialects from Wikipedia and Twitter across 21 countries.
 
 * July 2019 - May 2020: Research Engineer
   * National Center for Artificial Intelligence, Pakistan
-  * Duties included: Built Urdu Automatic Speech Recongition system using Kaldi ASR. Developed models for Urdu NER, POS, and Sentiment Analysis using BERT language model.
+  * Developed an Urdu Automatic Speech Recognition System using Kaldi, lowering the word error rate to 27%. Utilized support vector machine for sentiment analysis, mBERT for Named Entity Recognition, and HMM for POS tagging in Urdu. 
+  * Supervised two transcribed for Urdu ASR dataset creation.
+  * Advised on master’s thesis projects: Roman Urdu speech-to-text and Urdu speech emotion recognition.
 
 * July 2018 - August 2028: Machine Learning intern
-  * Developed Restaurant Chatbot based on Kaggle Dataset.
-  * Developed Telecommunications Customer Care Chatbot.
-  * Research on Deep Learning based models for Speech Emotion Recognition.
+  * Developed prototypes of restaurant and telecommunications customer care chatbot for a client.
+  * Designed and developed the MySQL database and the training of the chatbot’s NLU module.
+  * Delivered successful client demo showcasing the functionality of the prototypes.
+  * Utilized Python, Rasa-score, Rasa-NLU, SpaCy, and MySQL
   
 Skills
 ======
