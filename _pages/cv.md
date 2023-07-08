@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Novemeber 2022 - : Research Assistant
+* November 2022 - : Research Engineer
   * Chair of NLP, Uni-Wurzburg
   * Member of the technical team of EUINACTION project, creating machine learning models for political text scaling. Applied regression, classification (Roberta, XLM-R), and GPT3 driven data augmentation, to analyze multi-lingual political text. Contributed to the creation of ParlEE dataset and enabled political scientists to produce influential papers in political
 science journals.
