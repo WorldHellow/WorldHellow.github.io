@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* PhD in Computer Science, JMU Wurzburg, Germany, Present
 * M.Sc. in Language Science and Technology, Saarland University, Germany, 2022
   * Thesis: Tackling Hallucinations in Neural Chart Summarization 
   * Supervised by: Vera Demberg (Saarland University), Ondrej Dusek (Charles University)
@@ -19,7 +20,10 @@ Education
 
 Work experience
 ======
-* November 2022 - : Research Engineer
+* March 2024 - Present: Research Assistant
+  * Chair of NLP, Uni-Wurzburg
+  * Research on multilingual hallucinations and biases.   
+* November 2022 - February 2024: Research Engineer
   * Chair of NLP, Uni-Wurzburg
   * Member of the technical team of EUINACTION project, creating machine learning models for political text scaling. Applied regression, classification (Roberta, XLM-R), and GPT3 driven data augmentation, to analyze multi-lingual political text. Contributed to the creation of ParlEE dataset and enabled political scientists to produce influential papers in political
 science journals.
