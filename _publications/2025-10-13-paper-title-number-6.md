@@ -1,7 +1,7 @@
 ---
 title: "The Curious Case of Factual (Mis)Alignment between LLMs' Short- and Long-Form Answers"
 collection: publications
-permalink: /publication/2023-09-13-paper-title-number-6
+permalink: /publication/2025-09-13-paper-title-number-6
 excerpt: Long Paper
 date: 2025-19-13
 venue: Under Review
