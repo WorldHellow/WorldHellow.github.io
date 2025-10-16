@@ -22,7 +22,8 @@ Work experience
 ======
 * March 2024 - Present: Research Assistant
   * Chair of NLP, Uni-Wurzburg
-  * Research on multilingual hallucinations and biases.   
+  * Research on multilingual trustworthiness and safety.   
+  
 * November 2022 - February 2024: Research Engineer
   * Chair of NLP, Uni-Wurzburg
   * Member of the technical team of EUINACTION project, creating machine learning models for political text scaling. Applied regression, classification (Roberta, XLM-R), and GPT3 driven data augmentation, to analyze multi-lingual political text. Contributed to the creation of ParlEE dataset and enabled political scientists to produce influential papers in political
