@@ -1,12 +1,12 @@
 ---
-title: "The Curious Case of Factual (Mis)Alignment between LLMs' Short- and Long-Form Answers"
+title: "Tackling Hallucinations in Neural Chart Summarization"
 collection: publications
-permalink: /publication/2023-09-13-paper-title-number-6
-excerpt: Long Paper
-date: 2025-19-13
-venue: Under Review
+permalink: /publication/2023-09-13-paper-title-number-4
+excerpt: Short Paper
+date: 2023-09-13
+venue: Proceedings of the 16th International Conference on Natural Language Generation
 paperurl: 
 citation:
 ---
-[Download paper here: Arxiv]([https://arxiv.org/abs/2308.00399](https://arxiv.org/abs/2510.11218))
+[Download paper here: Arxiv](https://arxiv.org/abs/2308.00399)
 [Proceedings:]
