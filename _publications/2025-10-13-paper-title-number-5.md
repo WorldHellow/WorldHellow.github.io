@@ -1,5 +1,5 @@
 ---
-title: "How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild"
+title: "How Much Do LLMs Hallucinate across Languages? On Realistic Multilingual Estimation of LLM Hallucination"
 collection: publications
 permalink: /publication/2025-02-18-paper-title-number-5
 excerpt: Long Paper
